@@ -133,4 +133,4 @@ Ao final deste exercício, a página deve ser parecer com esta imagem:
     é uma imagem "em linha", tipo um _emoji_. Se ela for uma imagem maior,
     provavelmente deve estar fora do parágrafo.
 
-[estrutura]: https://willsallum.github.io/cefet_front_end/classes/html1/#estrutura-basica-html
+[estrutura]: https://willsallum.github.io/cefet_front_end/classes/html1/#estrutura--
